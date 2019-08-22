@@ -1,11 +1,18 @@
 {
   "summary": {
     "title": "Test",
-    "owner": "Bill"
+    "owner": "Bill",
+    "description": "Stuff and things"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Things",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Someone"
   }
 }
